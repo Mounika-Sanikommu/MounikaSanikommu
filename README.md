@@ -1,35 +1,28 @@
 # Hi, I'm Mounika Sanikommu
 
-I'm an AI product builder focused on turning emerging technology into practical developer experiences, clear product workflows, and useful software people can actually run.
+I'm an AI product builder focused on turning emerging technology into practical apps, clear product workflows, and useful experiences for everyday users.
 
-Most of my work sits at the intersection of product thinking and hands-on AI engineering: shaping the problem, designing the workflow, and building examples that make complex ideas easier to use.
+My goal is simple: build apps that help normal users, and share what I learn along the way.
 
-I build AI agents and working examples that help developers move faster, from the first prototype to production-ready patterns.
-
-## What I Work On
-
-- **AI agents:** single-agent systems, multi-agent teams, MCP-based agents, browser agents, voice agents, local agents, and cloud-hosted agents
-- **Ready-to-run examples:** clean starter kits, practical templates, and demos that go from clone to install to run
-- **Developer workflows:** agent structure, tool calling, logging, evaluations, planning, memory, and deployment patterns
-- **RAG applications:** simple RAG chains, agentic RAG, hybrid search, local RAG, and retrieval workflows for real products
-- **Chat-with-anything apps:** GitHub, Gmail, PDFs, videos, research papers, documents, and knowledge bases
-- **LLM app development:** local and cloud LLM apps, OpenAI SDK workflows, model experimentation, and product-ready AI interfaces
-- **Fine-tuning and open-source models:** Gemma, Llama, and other OSS model workflows
+Most of my work sits at the intersection of product thinking and hands-on building: understanding the problem, designing the workflow, testing ideas, and turning lessons into something practical.
 
 ## Product Angle
 
-I care about the full product loop: understanding the user, choosing the right AI pattern, shipping a working experience, and making it reliable enough to trust.
+I care about the full product loop: understanding the user, choosing the right approach, shipping a working experience, and making it simple enough to use.
 
-For me, great AI products are not just impressive demos. They need clear user value, strong defaults, thoughtful evaluation, and simple paths from idea to implementation.
+For me, great products are not just impressive demos. They need clear user value, strong defaults, thoughtful design, and a simple path from idea to real use.
 
-## Current Focus
+## What I'm Exploring
 
-Right now, I'm exploring how AI agents, RAG systems, tool calling, and memory can help teams build more useful software with less friction.
+- Helpful apps for everyday problems
+- AI tools and automation
+- Product lessons from building
+- Simple workflows that make technology easier to use
+- Notes, templates, and resources from what I learn
 
-I'm especially interested in practical agent patterns that developers can understand quickly, adapt easily, and ship confidently.
+## Why I Build
 
-## Connect
+I believe technology should feel approachable. I want the things I create to make someone's work easier, save them time, or help them understand something better.
 
-- GitHub: [Mounika-Sanikommu](https://github.com/Mounika-Sanikommu)
+Thanks for visiting my GitHub.
 
-If you're building with AI agents, RAG, or LLM apps, I'd love to connect, compare notes, and share ideas.
