@@ -4,7 +4,7 @@ I'm an AI product builder focused on turning emerging technology into practical 
 
 My goal is simple: build apps that help normal users, and share what I learn along the way.
 
-Most of my work sits at the intersection of product thinking and hands-on building: understanding the problem, designing the workflow, testing ideas, and turning lessons into something practical.
+Most of my work sits at the intersection of product thinking and hands on building: understanding the problem, designing the workflow, testing ideas, and turning lessons into something practical.
 
 ## Product Angle
 
